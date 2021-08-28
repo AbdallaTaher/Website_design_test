@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 500px;
+    background-color: aquamarine;
+}
+.words{
+width: 100%;
+height: 300px;
+background-color: black;
+}
